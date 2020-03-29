@@ -24,6 +24,8 @@
  - VS
     - practice
     - keybinds
+    - prettier?
+    - live server?
  - ASP
    - practice
 
@@ -35,20 +37,24 @@
  - [Keyboard](https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-use-the-keyboard-exclusively?view=vs-2019)
  - [Frameworks](https://docs.microsoft.com/en-us/visualstudio/ide/visual-studio-multi-targeting-overview?view=vs-2019)
 
-### Visual Studio ?
- - asdf
-
 
 ## Learn C#
+ - [Arrays](https://docs.microsoft.com/en-us/learn/modules/csharp-arrays/)
+ - [Logic](https://docs.microsoft.com/en-us/learn/paths/csharp-logic/)
+ - [Conversion](https://docs.microsoft.com/en-us/learn/modules/csharp-convert-cast/)
+ - [Data](https://docs.microsoft.com/en-us/learn/paths/csharp-data/)
+ - [Advanced](https://channel9.msdn.com/Series/C-Advanced/?&WT.mc_id=EducationalAdvancedCsharp-c9-niner)
+ - [Strings](https://docs.microsoft.com/en-us/learn/modules/csharp-basic-formatting/)
+ - [Math](https://docs.microsoft.com/en-us/learn/modules/csharp-basic-operations/)
+ - [???](https://docs.microsoft.com/en-us/learn/modules/csharp-call-methods/)
 
-### C# Paths
- - asdf
 
-### C# Modules
- - asdf
+## Learn ASP
+ - [API](https://docs.microsoft.com/en-us/learn/modules/build-web-api-net-core/)
+ - [Logs](https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/)
+ - [Identity](https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/)
+ - [UI](https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/)
 
-### C# Web Modules
- - asdf
 
 
 

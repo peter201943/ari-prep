@@ -5,35 +5,41 @@
 
 ## Stuff
  - C#
-    - gitignore
-    - practice
-    - [gitignore](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore)
-    - 
+     - gitignore
+     - practice
+     - [gitignore](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore)
+     - 
  - TS
-    - gitignore
-    - practice
-    - [howto ignore](https://stackoverflow.com/questions/33958140/how-to-exclude-typescript-compiled-files-from-git)
-    - [starter kit](https://github.com/microsoft/TypeScript-React-Starter)
+     - gitignore
+     - practice
+     - [howto ignore](https://stackoverflow.com/questions/33958140/how-to-exclude-typescript-compiled-files-from-git)
+     - [starter kit](https://github.com/microsoft/TypeScript-React-Starter)
  - jQ
-    - gitignore
-    - practice
+     - gitignore
+     - practice
  - gantt
-    - markdown
-    - practice
-    - weekly
-    - [mermaid](https://mermaid-js.github.io/mermaid/#/)
-    - [Github](https://github.com/features/project-management)
-    - [Gitlab](https://about.gitlab.com/solutions/project-management/)
-    - [Atlassian](https://confluence.atlassian.com/jiracoreserver086/project-management-990555504.html)
+     - markdown
+     - practice
+     - weekly
+     - [mermaid](https://mermaid-js.github.io/mermaid/#/)
+     - [Github](https://github.com/features/project-management)
+     - [Gitlab](https://about.gitlab.com/solutions/project-management/)
+     - [Atlassian](https://confluence.atlassian.com/jiracoreserver086/project-management-990555504.html)
  - VS
-    - practice
-    - keybinds
+     - practice
+     - keybinds
  - VS Code
-    - prettier?
-    - live server?
-    - [Live Share](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
+     - prettier?
+     - live server?
+     - [Live Share](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
  - ASP
-   - practice
+     - practice
+ - LINQpad
+     - [what is this?](https://stackoverflow.com/questions/3555317/linqpad-extension-methods)
+ - Running C#
+     - https://stackoverflow.com/questions/30150022/how-to-compile-c-sharp-in-microsofts-new-visual-studio-code
+     - Why is this such an uphill battle?
+     - Why is the `Run` button missing?
 
 
 ## Learn Visual Studio

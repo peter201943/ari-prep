@@ -8,7 +8,6 @@
      - gitignore
      - practice
      - [gitignore](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore)
-     - 
  - TS
      - gitignore
      - practice

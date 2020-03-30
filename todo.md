@@ -21,11 +21,17 @@
     - markdown
     - practice
     - weekly
+    - [mermaid](https://mermaid-js.github.io/mermaid/#/)
+    - [Github](https://github.com/features/project-management)
+    - [Gitlab](https://about.gitlab.com/solutions/project-management/)
+    - [Atlassian](https://confluence.atlassian.com/jiracoreserver086/project-management-990555504.html)
  - VS
     - practice
     - keybinds
+ - VS Code
     - prettier?
     - live server?
+    - [Live Share](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
  - ASP
    - practice
 

@@ -3,6 +3,14 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>csharp_practice</RootNamespace>
+    <AssemblyName>csharp_practice</AssemblyName>
+    <Description>A Simple project to transition from Unity's C# to traditional and ASP C#</Description>
+    <RepositoryUrl>https://github.com/peter201943/ari-prep</RepositoryUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\Standard Access\Documents\ari-prep\temp_csharp\csharp_practice.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>
